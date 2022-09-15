@@ -1,4 +1,3 @@
 # MeuNovoRepo
 ## Descrição do Projeto
-<p align="center">Projeto de dissertação: Beta diversidade entre cabeceiras e entre riachos centrais na comunidade de macroinvertebrados aquáticos
-</p>
+<p align="center">Breve descrição do projeto</p>
